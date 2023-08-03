@@ -1,5 +1,5 @@
 public class DemoOne{
     public static void main(String [] args){
-        System.out.println("Hello akka")
+        System.out.println("Hello akka");
     }
 }
